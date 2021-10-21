@@ -1,197 +1,205 @@
-任務六： 神秘島之迷	解謎條件:全『gift』要『40』以上( 第一級的萬中選一是37 )、內功心法(force)技能250、讀書識字( literate )技能101以上(可讀鐵雲藏龜)。		
-回總覽頁	五把Key取得條件及方法		
-	紅色龍形鑰匙【取得條件:膽識 40】【天魔爪】		
-	取得方法	紅色龍形鑰匙(Red key)	
-		recall;#2 e;tran 6;#3 n;#5 w;n;nw;w;wu;nu;nu;w;jump down;look 牆壁;get claw;inlay claw into 凹槽;	
-			
-	白色龍形鑰匙【取得條件:臂力 40】		
-	取得方法	白色龍形鑰匙(White key)	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;	
-		;#3 n;ne;n;buy furcloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;	
-		;ne;open door;n;#3 w;open door;d;open door;d;get white key	
-			
-	黃色龍形鑰匙【取得條件:福緣 40】		
-	取得方法	黃色龍形鑰匙(Yellow key)	
-		recall;#2 e;tran 2;w;#2 s;se;s;w;enter;open north;#2 n;sw;w;n;push north;#2 n;	
-		;3n;w;s;#2 w;s;w;s;look 地底隙縫;search 地底隙縫;get yellow key;secure key	
-			
-	綠色龍形鑰匙【取得條件:悟性 40】		
-	取得方法	綠色龍形鑰匙(Green key)	
-		recall;#2 e;tran 8;#4 w;#4 w;#6 s;#2 s;w;n;w;n;w;n;n;e;look 古怪的圖形;look 龍珠;	
-		;#9 turn left;#5 turn right;	
-			
-	黑色龍形鑰匙【取得條件:定力 40】		
-	取得方法	黑色龍形鑰匙(Black key)	
-		西洋火炮(Gun)	
-		recall;#2 e;tran 7;#2 s;#3 e;kill soldier;get gun from corpse;	
-		虎肉(Meat)	
-		recall;#2 e;tran 3;s;#2 e;se;#3 n;nd;#4 n;kill tiger;get meat from corpse	
-		硝磺火藥(Gunpowder)	
-		recall;;2e;tran 1;n;;6e;;2s;;2e;;2s;;3e;ne;e;eu;e;;3n;#2 e;look 硝磺火藥;fetch 硝磺火藥;	
-		絲線(Lines)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;#2 ne;search;se;#2 e;eu;e;#2 n;buy lines	
-		赤鐵礦(Iron mine)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;#12 n;#4 w;sw;sd;sd;sd;sd;look 赤紅色斑點;pick 赤紅色的礦物	
-		砲彈(Shell)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;n;search;sw;w;open door;n;open door;n;look 圖鑑;	
-		;ask man about 砲彈;give man meat;give man iron;give man gunpowder;give man lines	
-		殺 【鐵甲黑龍】 取Key (PS;附近幾格都會出現，但只在凌晨及傍晚出現)	
-		recall;e;s;s;#5 e;ne;e;ne;rent ship from shipowner;#4 e;那格等【鐵甲黑龍】，然後 shoot dragon 	
-			
-	四種藥物取得方法		
-	取得方法	一隻百鬼夜行(Night ghost)	
-		御賜金牌(Gold plate)	
-		先解 御賜金牌 當材料	
-		聖火燃料(Fuel)	
-		recall;#2 e;tran 1;n;#6 e;s;e;#2 s;#3 e;ne;e;eu;e;#4 n;e;kill shin;get fuel from corpse;	
-		絲線(Lines)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;#2 ne;search;se;#2 e;eu;e;#2 n;buy lines	
-		赤鐵礦(Iron mine)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;#12 n;#4 w;sw;sd;sd;sd;sd;look 赤紅色斑點;pick 赤紅色的礦物	
-		爆燄烈光彈(Fire shell)	
-		recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;n;search;sw;w;open door;n;open door;n;look 圖鑑;	
-		ask man about 爆燄烈光彈;give man plate;give man fuel;give man iron;give man lines	
-		西洋火炮(Gun) (若已有不必重複取得)	
-		recall;#2 e;tran 7;#2 s;#3 e;kill soldier;get gun from corpse;	
-		(PS;別有殺氣去取 ghost，死亡會爆)	
-		recall;#2 e;tran 7;#2 s;#5 w;n;#2 w;s;#2 w;wd;n;climb down;nd;#3 n;	
-		這附近找找 ghost 然後 follow ghost;throw fire shell;get ghost	
-			
-		火麒麟內丹(Wan ball)	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;	
-		;#3 n;ne;n;buy furcloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;ne;e;ne;n;n;	
-		;break ice 下到天池底(已修改為亂數小迷宮，移動扣精氣神) 找到 beast打暈他後 取得 【避火珠】	
-		再 recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;	
-		;#3 n;ne;n;nu;nu;nu;w;nu;nu;push rock;#5 enter;kill beast;get wan from corpse;	
-			
-		一株龍涎草(Dragon grass)	
-		recall;#2 e;tran 5;#2 w;enter;#3 n;ask dancer about 龍涎草;give 100 gold to dancer	
-			
-		"天山雪蓮緩緩的綻開出一朵潔白無瑕的花朵
-"	"下get seed from lotus
-"
-		一顆雪蓮子(Snow lotus seed)	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;	
-		;#3 n;ne;n;buy furcloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;ne; 往 S 開始滾蓮子 時間準了就看運氣了	
-		"get seed from lotus
-"	
-	前往神秘小島開始解謎		
-		準備 兩副 五把龍形鑰匙 跟 四種藥物 後，解任務六的前置準備工作就O;K了 。	
-	神秘小島	位置一路徑	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;s	
-		位置二路徑	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#4 w	
-		位置三路徑	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;se	
-		位置四路徑	
-		recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;sw	
-			
-		進去之後會一直扣精氣神的上限，所以最好是有個人『follow』你進去，這樣子在進去的時候只有『follow』的人精氣神上限會一直扣，等到了花崗岩石	
-		室的時候，『follow』你的那一個人就趕緊走原路回到神祕的小島入口就不會扣精氣神上限了。因裡面是個會變動的迷宮，故沒 有一定走法，進去盡量	
-		以 s 、sw 、 se 三種為優先順序的走直到看到山洞的盡頭那格，然後 down 就到花崗岩石室了，出去盡量以 n 、nw 、 ne 三種為優先順序的走直到看到	
-		神秘小島的入口 。	
-			
-		花崗岩石室 - 	
-		    這是一間由堅硬的花崗岩石所構成之石室，石室的頂部依然遍佈著	
-		那種怪異的發光菌類，而石室裡則是空空洞洞的沒有任何東西，突然你	
-		發現北邊的牆壁似乎有些許的怪異。	
-		    這裡唯一的出口是 up。	
-		> 你上方的菌類正在吸取你的活力，你感到越來越虛弱。	
-		look 牆壁	
-			
-		牆上除了有著巨大的龍形浮雕外，還刻著一些文字：	
-		神龍齊聚，	
-		五行圓融，	
-		天關飛渡。	
-			
-		底下另外刻著兩行字，其中有些還閃爍著光芒：	
-		金、木、水、火、土                            <==其中一個字會以 藍色 顯示	
-		生、剋、乘、侮                                    <==其中一個字會以 粉紅色 顯示	
-			
-		最底下則有五個鑰匙孔分東、西、南、北、中，五個方位排列著	
-		似乎可以插入(insert)某種鑰匙：	
-			
-		          Θ	
-			
-		Θ      Θ      Θ	
-			
-		          Θ	
-			
-		例如上面的鑰匙插法就是依   剋金 為開頭排列順序，排列順序如 附表	
-		剋金  insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;	
-			
-			
-	步驟一	花崗岩石室插完鑰匙 進入密室後 會遇到任務NPC 	
-			
-		進去後可以看到一個老人，【ask man about 幫助】，他會說他得了寒熱相煎之症，問你是否願意幫助他，願意幫助的話請輸入(Y or y)，	
-		然後【ask man about 離開】，他就會送你到望天崖，然後 jump down ，就會回到神秘島入口。	
-			
-	步驟二	recall;#2 e;tran 3;s;w;nw;	
-		ask ben about 寒熱相煎之症	
-		他會跟你說要做五行陰陽丹需要四種藥物，你把你之前拿的四種藥物給他，他就會跟你說一天後再來拿五行陰陽丹，等 WF 的一天過後，注意不是真正的一天，	
-		是打--time--指令裡的一天，相當mob rb時間十五分鐘(實際時間會更長一點)，再回去找扁鵲領藥，ask ben about 領取五行陰陽丹，就拿到五行陰陽丹了 。　	
-		(回春堂 ---江湖名醫 扁鵲) 	
-			
-		扁鵲說道﹕ 我已經開始煉製了，你一天後再來向我領取五行陰陽丹。　　 	
-		扁鵲說道﹕又還沒煉製完成，你急什麼！　　　 	
-		你向扁鵲打聽有關『領取五行陰陽丹』的消息。	
-		扁鵲說道﹕你稍等一下，老朽馬上取出來給你。	
-			
-		扁鵲走向後面的房間。	
-		扁鵲走了過來。	
-		扁鵲將一顆五行陰陽丹交給你。	
-			
-			
-	步驟三	─ 回去神秘小島 ─ 	
-			
-		拿到五行陰陽丹後再去找一次神秘小島上的那位神秘老人，到了那格後 	
-		ask man about 幫助 。 	
-			
-		他服完藥後會傳功給你，並說要感謝你指式你到望天崖下的石窟，然後 	
-			
-		ask man about 離開 。 	
-			
-		他就再送你到望天崖，到了望天崖那格後　jump down　會到石窟(這enable dodge 需要240以上，不夠可由裝暫時替補，要不然會進不到石窟那格)，注意看那格的	
-		房間敘述，look 文字，會有一段文字敘述意指要你　abandon force(超級有快感！！)，abandon force，之後再look 文字一次就會有一股龍氣灌入體內，然後打 skills 	
-		就有技能 1 的dragon_soul 和技能 125 的 force，且會加五萬聲望及五百潛能，接下來 north 就可以離開石窟回到神秘小島的入口了。 	
-		(要注意的是如果沒有 abandon force 的話，每一次 look 文字都會造成內傷喔。)	
-			
-	附表	以下是 生剋乘悔 的順序排列： 	
-		木生火、火生土、土生金、金生水、水生木 。 	
-			
-		木剋土、土剋水、水剋火、火剋金、金剋木 。 	
-			
-		木乘土、土乘水、水乘火、火乘金、金乘木 。 	
-			
-		木悔金、金悔火、火悔水、水悔土、土悔木 。 	
-			
-		再來以下是鑰匙的屬性、鑰匙、方位： 	
-		金--白色--西方 insert white into 西	
-		木--青色--東方 insert green into 東	
-		水--黑色--北方 insert black into 北	
-		火--紅色--南方 insert red into 南	
-		土--黃色--中央 insert yellow into 中	
-			
-	鑰匙 排列組合順序		
-	生金	insert white into 西;insert black into 北;insert green into 東;insert red into 南;insert yellow into 中	
-	生木	insert green into 東;insert red into 南;insert yellow into 中;insert white into 西;insert black into 北	
-	生水	insert black into 北;insert green into 東;insert red into 南;insert yellow into 中;insert white into 西	
-	生火	insert red into 南;insert yellow into 中;insert white into 西;insert black into 北;insert green into 東	
-	生土	insert yellow into 中;insert white into 西;insert black into 北;insert green into 東;insert red into 南	
-	剋金 	insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南	
-	剋木	insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;insert white into 西	
-	剋水	insert black into 北;insert red into 南;insert white into 西;insert green into 東;insert yellow into 中	
-	剋火	insert red into 南;insert white into 西;insert green into 東;insert yellow into 中;insert black into 北	
-	剋土	insert yellow into 中;insert black into 北;insert red into 南;insert white into 西;insert green into 東	
-	乘金	insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南	
-	乘木	insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;insert white into 西	
-	乘水	insert black into 北;insert red into 南;insert white into 西;insert green into 東;insert yellow into 中	
-	乘火	insert red into 南;insert white into 西;insert green into 東;insert yellow into 中;insert black into 北	
-	乘土	insert yellow into 中;insert black into 北;insert red into 南;insert white into 西;insert green into 東	
-	侮金	insert white into 西;insert red into 南;insert black into 北;insert yellow into 中;insert green into 東	
-	侮水	insert black into 北;insert yellow into 中;insert green into 東;insert white into 西;insert red into 南	
-	侮木	insert green into 東;insert white into 西;insert red into 南;insert black into 北;insert yellow into 中	
-	侮火	insert red into 南;insert black into 北;insert yellow into 中;insert green into 東;insert white into 西	
-	侮土	insert yellow into 中;insert green into 東;insert white into 西;insert red into 南;insert black into 北	
-			
-"	
+任務六： 神秘島之迷		龍魄罡訣 dragon_soul																						
+解謎條件:全『gift』要『40』以上( 第一級的萬中選一是37 )、內功心法(force)技能250、讀書識字( literate )技能101以上(可讀鐵雲藏龜)。																								
+五把Key取得條件及方法																								
+紅色龍形鑰匙【取得條件:膽識 40】【天魔爪】																								
+取得方法	紅色龍形鑰匙(Red key)																							
+	recall;#2 e;tran 6;#3 n;#5 w;n;nw;w;wu;nu;nu;w;jump down;look 牆壁;get claw;inlay claw into 凹槽;																							
+																								
+白色龍形鑰匙【取得條件:臂力 40】																								
+取得方法	白色龍形鑰匙(White key)																							
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;																							
+	#3 n;ne;n;buy furcloth;remove wu-jan cloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;																							
+	ne;open door;n;#3 w;open door;d;open door;d;get white key																							
+																								
+黃色龍形鑰匙【取得條件:福緣 40】																								
+取得方法	黃色龍形鑰匙(Yellow key)																							
+	recall;#2 e;tran 2;w;#2 s;se;s;w;enter;open north;#2 n;sw;w;n;push north;#2 n;																							
+	3n;w;s;#2 w;s;w;s;look 地底隙縫;search 地底隙縫;get yellow key;secure key																							
+																								
+綠色龍形鑰匙【取得條件:悟性 40】																								
+取得方法	綠色龍形鑰匙(Green key)																							
+	recall;#2 e;tran 8;#4 w;#4 w;#6 s;#2 s;w;n;w;n;w;n;n;e;look 古怪的圖形;look 龍珠;																							
+	turn left;turn left;turn left;turn left;turn left;turn left;turn left;turn left;turn left;turn right;turn right;turn right;turn right;turn right																							
+																								
+黑色龍形鑰匙【取得條件:定力 40】																								
+取得方法	黑色龍形鑰匙(Black key)																							
+	西洋火炮(Gun)																							
+	recall;#2 e;tran 7;#2 s;#3 e;kill soldier;get gun from corpse;																							
+	虎肉(Meat)																							
+	recall;#2 e;tran 3;s;#2 e;se;#3 n;nd;#4 n;kill tiger;get meat from corpse																							
+	硝磺火藥(Gunpowder)																							
+	recall;#2e;tran 1;n;#6e;#2s;#2e;#2s;#3e;ne;e;eu;e;#3n;#2 e;look 硝磺火藥;fetch 硝磺火藥;																							
+	絲線(Lines)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;search;se;#2 e;eu;e;#2 n;buy lines																							
+	赤鐵礦(Iron mine)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;#12 n;#4 w;sw;sd;sd;sd;sd;look 赤紅色斑點;pick 赤紅色的礦物																							
+	砲彈(Shell)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;n;search;sw;w;open door;n;open door;n;look 圖鑑;																							
+	ask man about 砲彈;give man meat;give man iron;give man gunpowder;give man lines																							
+	殺 【鐵甲黑龍】 取Key (PS;附近幾格都會出現，但只在凌晨及傍晚出現)																							
+	recall;e;s;s;#5 e;ne;e;ne;rent ship from shipowner;#4 e;那格等【鐵甲黑龍】，然後 shoot dragon;get all from corpse																							
+																								
+四種藥物取得方法																								
+取得方法	一隻百鬼夜行(Night ghost)		亥时																					
+	御賜金牌(Gold plate)																							
+	先解 御賜金牌 當材料																							
+	聖火燃料(Fuel)																							
+	recall;#2 e;tran 1;n;#6 e;s;s;e;e;#2 s;#3 e;ne;e;eu;e;#4 n;e;kill shin;get fuel from corpse;																							
+	絲線(Lines)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;search;se;#2 e;eu;e;#2 n;buy lines																							
+	赤鐵礦(Iron mine)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;#12 n;#4 w;sw;sd;sd;sd;sd;look 赤紅色斑點;pick 赤紅色的礦物																							
+	爆燄烈光彈(Fire shell)																							
+	recall;#2 e;tran 4;s;#2 w;#2 n;e;ne;#4 n;ne;ne;ne;nw;nw;n;search;sw;w;open door;n;open door;n;look 圖鑑;																							
+	ask man about 爆燄烈光彈;give man plate;give man fuel;give man iron;give man lines																							
+	西洋火炮(Gun) (若已有不必重複取得)																							
+	recall;#2 e;tran 7;#2 s;#3 e;kill soldier;get gun from corpse;																							
+	(PS;別有殺氣去取 ghost，死亡會爆)																							
+	recall;#2 e;tran 7;#2 s;#5 w;n;#2 w;s;#2 w;wd;n;climb down;nd;#3 n;																							
+	這附近找找 ghost 然後 follow ghost;throw fire shell;get ghost																							
+																								
+	火麒麟內丹(Wan ball)		(自己吃會增加內力上限100)																					
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;																							
+	#3 n;ne;n;buy furcloth;remove wu-jan cloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;ne;e;ne;n;n;																							
+	;break ice 下到天池底(已修改為亂數小迷宮，移動扣精氣神) 找到 beast打暈他後 取得 【避火珠】																							
+	再 recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;																							
+	#3 n;ne;n;nu;nu;nu;w;nu;nu;push rock;#5 enter;kill beast;get wan from corpse;																							
+																								
+	一株龍涎草(Dragon grass)																							
+	recall;#2 e;tran 5;#2 w;enter;#3 n;ask dancer about 龍涎草;give 100 gold to dancer																							
+																								
+	天山雪蓮緩緩的綻開出一朵潔白無瑕的花朵	下get seed from lotus																						
+	一顆雪蓮子(Snow lotus seed)			間格51hrs																				
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;																							
+	#3 n;ne;n;buy furcloth;remove wu-jan cloth;wear furcloth;nu;nu;nu;w;nu;nu;nu;nu;e;eu;eu;eu;eu;eu;eu;eu;e;n;ne; 往 S 開始滾蓮子 時間準了就看運氣了																							
+	get seed from lotus																							
+前往神秘小島開始解謎																								
+	準備 兩副 五把龍形鑰匙 跟 四種藥物 後，解任務六的前置準備工作就O;K了 。																							
+神秘小島	位置一路徑																							
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;s																							
+	位置二路徑																							
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#4 w																							
+	位置三路徑																							
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;w;se																							
+	位置四路徑																							
+	recall;#2 e;tran 5;#2 e;rent ship from shipmaster;ne;#7 n;nw;#3 w;nw;nw;sw																							
+																								
+	進去之後會一直扣精氣神的上限，所以最好是有個人『follow』你進去，這樣子在進去的時候只有『follow』的人精氣神上限會一直扣，等到了花崗岩石																							
+	室的時候，『follow』你的那一個人就趕緊走原路回到神祕的小島入口就不會扣精氣神上限了。因裡面是個會變動的迷宮，故沒 有一定走法，進去盡量																							
+	以 s 、sw 、 se 三種為優先順序的走直到看到山洞的盡頭那格，然後 down 就到花崗岩石室了，出去盡量以 n 、nw 、 ne 三種為優先順序的走直到看到																							
+	神秘小島的入口 。																							
+																								
+	花崗岩石室 -																							
+	這是一間由堅硬的花崗岩石所構成之石室，石室的頂部依然遍佈著																							
+	那種怪異的發光菌類，而石室裡則是空空洞洞的沒有任何東西，突然你																							
+	發現北邊的牆壁似乎有些許的怪異。																							
+	這裡唯一的出口是 up。																							
+	> 你上方的菌類正在吸取你的活力，你感到越來越虛弱。																							
+	look 牆壁																							
+																								
+	牆上除了有著巨大的龍形浮雕外，還刻著一些文字：																							
+	神龍齊聚，																							
+	五行圓融，																							
+	天關飛渡。																							
+																								
+	底下另外刻著兩行字，其中有些還閃爍著光芒：																							
+	金、木、水、火、土 <==其中一個字會以 藍色 顯示																							
+	生、剋、乘、侮 <==其中一個字會以 粉紅色 顯示																							
+																								
+	最底下則有五個鑰匙孔分東、西、南、北、中，五個方位排列著																							
+	似乎可以插入(insert)某種鑰匙：																							
+																								
+	Θ																							
+																								
+	Θ Θ Θ																							
+																								
+	Θ																							
+																								
+	例如上面的鑰匙插法就是依  剋金 為開頭排列順序，排列順序如 附表																							
+	剋金 insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;																							
+																								
+																								
+步驟一	花崗岩石室插完鑰匙 進入密室後 會遇到任務NPC																							
+																								
+	進去後可以看到一個老人，【ask man about 幫助】，他會說他得了寒熱相煎之症，問你是否願意幫助他，願意幫助的話請輸入(Y or y)，																							
+	然後【ask man about 離開】，他就會送你到望天崖，然後 jump down ，就會回到神秘島入口。																							
+																								
+步驟二	recall;#2 e;tran 3;s;w;nw;																							
+	ask ben about 寒熱相煎之症			火麒麟內丹、雪蓮子、龍涎草、百鬼夜行																				
+	他會跟你說要做五行陰陽丹需要四種藥物，你把你之前拿的四種藥物給他，他就會跟你說一天後再來拿五行陰陽丹，等 WF 的一天過後，注意不是真正的一天，																							
+	是打--time--指令裡的一天，相當mob rb時間十五分鐘(實際時間會更長一點)，再回去找扁鵲領藥，ask ben about 領取五行陰陽丹，就拿到五行陰陽丹了 。																							
+	(回春堂 ---江湖名醫 扁鵲)																							
+	give wan to ben;give seed to ben;give grass to ben;give ghost to ben																							
+																								
+	扁鵲說道﹕ 我已經開始煉製了，你一天後再來向我領取五行陰陽丹。																							
+	扁鵲說道﹕又還沒煉製完成，你急什麼！																							
+	你向扁鵲打聽有關『領取五行陰陽丹』的消息。																							
+	扁鵲說道﹕你稍等一下，老朽馬上取出來給你。																							
+																								
+	扁鵲走向後面的房間。																							
+	扁鵲走了過來。																							
+	扁鵲將一顆五行陰陽丹交給你。																							
+																								
+																								
+步驟三	─ 回去神秘小島 ─																							
+																								
+	拿到五行陰陽丹後再去找一次神秘小島上的那位神秘老人，到了那格後																							
+	ask man about 幫助																							
+	give pill to man																							
+	他服完藥後會傳功給你，並說要感謝你指式你到望天崖下的石窟，然後																							
+	老人突然將手掌按住你的天靈蓋。																							
+	一股奇異的能量緩緩流進你的體內。																							
+	片刻之後，你的身體似乎有了些許改變。																							
+	ask man about 離開																							
+	他就再送你到望天崖，到了望天崖那格後 jump down 會到石窟(dodge有效等級要 240以上，不是skills裡面的喔！可以使用enable dodge查看，不夠可由裝暫時替補，要不然會進不到石窟那格)，注意看那格的																							
+	房間敘述，look 文字，會有一段文字敘述意指要你 abandon force(超級有快感！！)，abandon force，之後再look 文字一次就會有一股龍氣灌入體內，然後打 skills																							
+	就有技能 1 的dragon_soul 和技能 125 的 force，且會加五萬聲望及五百潛能，接下來 north 就可以離開石窟回到神秘小島的入口了。																							
+	(要注意的是如果沒有 abandon force 的話，每一次 look 文字都會造成內傷喔。)																							
+																								
+附表	以下是 生剋乘悔 的順序排列：																							
+	木生火、火生土、土生金、金生水、水生木 。																							
+																								
+	木剋土、土剋水、水剋火、火剋金、金剋木 。																							
+																								
+	木乘土、土乘水、水乘火、火乘金、金乘木 。																							
+																								
+	木悔金、金悔火、火悔水、水悔土、土悔木 。																							
+																								
+	再來以下是鑰匙的屬性、鑰匙、方位：																							
+	金--白色--西方 insert white into 西																							
+	木--青色--東方 insert green into 東																							
+	水--黑色--北方 insert black into 北																							
+	火--紅色--南方 insert red into 南																							
+	土--黃色--中央 insert yellow into 中																							
+																								
+鑰匙 排列組合順序																								
+生金	insert white into 西;insert black into 北;insert green into 東;insert red into 南;insert yellow into 中																							
+生木	insert green into 東;insert red into 南;insert yellow into 中;insert white into 西;insert black into 北																							
+生水	insert black into 北;insert green into 東;insert red into 南;insert yellow into 中;insert white into 西																							
+生火	insert red into 南;insert yellow into 中;insert white into 西;insert black into 北;insert green into 東																							
+生土	insert yellow into 中;insert white into 西;insert black into 北;insert green into 東;insert red into 南																							
+剋金	insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南																							
+剋木	insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;insert white into 西																							
+剋水	insert black into 北;insert red into 南;insert white into 西;insert green into 東;insert yellow into 中																							
+剋火	insert red into 南;insert white into 西;insert green into 東;insert yellow into 中;insert black into 北																							
+剋土	insert yellow into 中;insert black into 北;insert red into 南;insert white into 西;insert green into 東																							
+乘金	insert white into 西;insert green into 東;insert yellow into 中;insert black into 北;insert red into 南																							
+乘木	insert green into 東;insert yellow into 中;insert black into 北;insert red into 南;insert white into 西																							
+乘水	insert black into 北;insert red into 南;insert white into 西;insert green into 東;insert yellow into 中																							
+乘火	insert red into 南;insert white into 西;insert green into 東;insert yellow into 中;insert black into 北																							
+乘土	insert yellow into 中;insert black into 北;insert red into 南;insert white into 西;insert green into 東																							
+侮金	insert white into 西;insert red into 南;insert black into 北;insert yellow into 中;insert green into 東																							
+侮水	insert black into 北;insert yellow into 中;insert green into 東;insert white into 西;insert red into 南																							
+侮木	insert green into 東;insert white into 西;insert red into 南;insert black into 北;insert yellow into 中																							
+侮火	insert red into 南;insert black into 北;insert yellow into 中;insert green into 東;insert white into 西																							
+侮土	insert yellow into 中;insert green into 東;insert white into 西;insert red into 南;insert black into 北																							
+																								
+	你的「龍魄罡訣」進步了﹗																							
+	你的龍魄罡訣已經修練至大成之境界。																							
+	你的心裡閃過一些模糊的概念。																							
+	但是你卻理不出一個清楚的頭緒。																							
+	看來得去請教那位精通龍魄罡訣的前輩才能弄個清楚明白了。																							
+																								
+Exert dragon_soul修練，會扣潛能，不會扣聲望，																								
+同時增加 Force and Dragon Froce 的exp																								
+																								
